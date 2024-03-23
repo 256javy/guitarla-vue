@@ -1,5 +1,13 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+    import { ref, reactive, onMounted } from 'vue';
+    import {db} from './data/guitars.js'
+
+    const guitarras = ref([])
+
+    onMounted(() => {
+        guitarras.value = db
+
+    })  
 </script>
 
 <template>
