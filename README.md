@@ -1,7 +1,25 @@
-# Vue 3 + Vite
+# GuitarLA
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+### VueJs project from [Vue.js 3 - La Guía Completa - Composition Pinia MEVN 10 Apps](https://www.udemy.com/course/vuejs-la-guia-completa-composition-pinia-mevn-creando-proyectos-reales/)
+- Juan Pablo De la torre Valdez ([Código con Juan](https://codigoconjuan.com/))
 
-## Recommended IDE Setup
+### What we learned in this project:
+- Components
+- State
+- Events
+- Custom Events
+- Props
+- Emit
+- Directives
+- Watch
+- Computed
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+### Project setup
+``` bash
+npm install
+vite
+```
+
+## Deployed on Netlify
+- https://guitarla-vue-256javy.netlify.app/
